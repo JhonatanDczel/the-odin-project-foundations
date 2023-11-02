@@ -1,0 +1,15 @@
+.flex-container {
+  display: flex;
+}
+
+.flex-container div {
+  background: peachpuff;
+  border: 4px solid brown;
+  height: 100px;
+  width: 250px;
+  flex-grow: 1;
+}
+
+.flex-container .two {
+  flex-shrink: 0;
+}
