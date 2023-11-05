@@ -56,6 +56,7 @@ a {
   width: 100%;
   max-width: 600px;
   min-width: 350px;
+  gap: 8px;
 }
 
 input {
@@ -63,6 +64,18 @@ input {
   border-radius: 24px;
   padding: 16px 24px;
   width: 100%;
+}
+
+.boton {
+  flex: 0;
+  border: 1px solid #ddd;
+  border-radius: 40%;
+  padding: 16px 16px;
+  color: #666;
+}
+
+.buscador {
+  flex: 1;
 }
 
 .footer {

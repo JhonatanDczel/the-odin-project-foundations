@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="style.css" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/3c994eaa39.js" crossorigin="anonymous"></script>
   </head>
   <body>
     <div class="header">
@@ -18,9 +19,10 @@
       <div class="container-banner">
         <img src="./img/banner.png" alt="Banner de un gato google" class="banner">
       </div>
-      <div class="input">
-        <input type="text" placeholder="Busqueda por texto">
-      </div>
+      <form class="input" action="https://www.google.com/search" method="GET">
+        <input class="buscador" type="text" placeholder="Busqueda por texto" name="q">
+        <button class="boton" type="submit"><i class="fa-solid fa-magnifying-glass fa-lg"></i></button>
+      </form>
     </div>
     <div class="footer">
       <p class="autor">Dczel Dev <span class="icon">&lt;/&gt;</span></p>
