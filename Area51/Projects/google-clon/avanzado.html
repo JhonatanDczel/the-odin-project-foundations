@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Google text</title>
+    <title></title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="style.css" rel="stylesheet">
@@ -19,9 +19,14 @@
       <div class="container-banner">
         <img src="./img/banner.png" alt="Banner de un gato google" class="banner">
       </div>
-      <form class="input" action="https://www.google.com/search" method="GET">
-        <input class="buscador" type="text" placeholder="Buscar en Google" name="q">
-        <button class="boton" type="submit"><i class="fa-solid fa-magnifying-glass fa-lg"></i></button>
+      <div class="tittle">Busqueda avanzada</div>
+      <form class="input input-avanzado" action="https://www.google.com/search" method="GET">
+        <div class="campos">
+          <input class="avanzado" type="text" placeholder="Todas estas palabras" name="q">
+          <input class="avanzado" type="text" placeholder="Esta palabra o frase exacta" name="as_epq">
+          <input class="avanzado" type="text" placeholder="Ninguna de estas palabras" name="as_eq">
+        </div>
+        <button class="boton boton-avanzado" type="submit"><i class="fa-solid fa-magnifying-glass fa-lg"></i></button>
       </form>
     </div>
     <div class="footer">

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Google text</title>
+    <title>Google images</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="style.css" rel="stylesheet">
@@ -20,7 +20,8 @@
         <img src="./img/banner.png" alt="Banner de un gato google" class="banner">
       </div>
       <form class="input" action="https://www.google.com/search" method="GET">
-        <input class="buscador" type="text" placeholder="Buscar en Google" name="q">
+        <input class="buscador" type="text" placeholder="Buscar una imagen en Google" name="q">
+        <input type="hidden" name="tbm" value="isch">
         <button class="boton" type="submit"><i class="fa-solid fa-magnifying-glass fa-lg"></i></button>
       </form>
     </div>

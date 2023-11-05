@@ -33,6 +33,11 @@ a {
   color: #555;
 }
 
+a:hover {
+  text-decoration: underline;
+  color: #222;
+}
+
 .content {
   display: flex;
   flex-direction: column;
@@ -59,23 +64,42 @@ a {
   gap: 8px;
 }
 
-input {
+.input.input-avanzado {
+  gap: 16px;
+}
+
+input , button{
   border: 1px solid #ddd;
   border-radius: 24px;
   padding: 16px 24px;
   width: 100%;
+  box-shadow: 0px 0 5px rgba(0, 0, 0, 0.2)
 }
 
 .boton {
   flex: 0;
-  border: 1px solid #ddd;
   border-radius: 40%;
   padding: 16px 16px;
   color: #666;
 }
 
+.boton.boton-avanzado{
+  align-self: center;
+  height: 60px;
+}
+
 .buscador {
   flex: 1;
+}
+
+.tittle {
+  color: #666;
+  font-weight: bold;
+}
+
+.avanzado{
+  box-sizing: border-box;
+  margin: 0 0 16px 0;
 }
 
 .footer {
