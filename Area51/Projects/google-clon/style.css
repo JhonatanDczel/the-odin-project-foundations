@@ -65,8 +65,21 @@ input {
   width: 100%;
 }
 
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 64px;
+  background-color: #eee;
+}
 
-
+.autor {
+  font-weight: 500;
+}
+.icon {
+  font-size: 12px;
+  font-weight: 900;
+}
 
 
 
