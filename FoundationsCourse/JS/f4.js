@@ -25,12 +25,11 @@ h1C.textContent = "I'm in a div";
 const pC = document.createElement('p');
 pC.textContent = "ME TOO";
 
-div.style.display = 'flex';
+div.appendChild(h1C);
+div.appendChild(pC);
 
 container.appendChild(content);
 container.appendChild(p);
 container.appendChild(h3);
 container.appendChild(div);
 
-div.appendChild(h1C);
-div.appendChild(pC);
