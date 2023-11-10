@@ -1,7 +1,7 @@
 # git_test
-Este es mi primer respositorio de github 
+Este es mi primer repositorio en GitHub.
 Hello Odin!!
 
 ## Area 51 > Proyectos:
 
-- **Clon de google:** https://jhonatandczel.github.io/git_test/Area51/Projects/google-clon/
+- **Clon de Google:** <a href="https://jhonatandczel.github.io/the-odin-project/Area51/Projects/google-clon/" target="_blank"> 🌐 Live Preview </a> 
