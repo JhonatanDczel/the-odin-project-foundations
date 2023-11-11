@@ -34,9 +34,14 @@ container.appendChild(h3);
 container.appendChild(div);
 
 
+function saludar() {
+  alert("Usar funciones como parametro para los eventos es una buena idea :)");
+}
+
 const btn = document.querySelector("#btn");
-btn.onclick = () => alert("Hellooo :3 from JS <3");
+//btn.onclick = () => alert("Hellooo :3 from JS <3");
 
-btn.addEventListener('click', () => { alert("Helloooo on eventListener :3"); });
+//btn.addEventListener('click', () => { alert("Helloooo on eventListener :3"); });
 
+btn.addEventListener('click', function(e) { e.target.style.background = 'blue'; });
 
