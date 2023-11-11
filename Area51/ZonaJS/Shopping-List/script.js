@@ -16,5 +16,9 @@ button.onclick = () => {
   btn.textContent = "Delete";
 
   ul.appendChild(li);
+
+  btn.onclick = () => { li.remove(); };
+
+  input.focus();
 };
 
