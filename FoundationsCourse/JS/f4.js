@@ -33,3 +33,8 @@ container.appendChild(p);
 container.appendChild(h3);
 container.appendChild(div);
 
+
+const btn = document.querySelector("#btn");
+btn.onclick = () => alert("Hellooo :3 from JS <3");
+
+
