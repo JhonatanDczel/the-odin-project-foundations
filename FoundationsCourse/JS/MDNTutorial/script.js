@@ -22,4 +22,4 @@ sect.appendChild(linkPara);
 
 linkPara.remove();
 
-linkPara.parentNode.removeChild(linkPara);
+para.setAttribute('class', 'highlight');
