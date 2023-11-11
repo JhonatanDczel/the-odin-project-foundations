@@ -37,4 +37,6 @@ container.appendChild(div);
 const btn = document.querySelector("#btn");
 btn.onclick = () => alert("Hellooo :3 from JS <3");
 
+btn.addEventListener('click', () => { alert("Helloooo on eventListener :3"); });
+
 
