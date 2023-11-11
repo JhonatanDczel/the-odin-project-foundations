@@ -18,3 +18,8 @@ const text = document.createTextNode(
 const linkPara = document.querySelector("p");
 linkPara.appendChild(text);
 
+sect.appendChild(linkPara);
+
+linkPara.remove();
+
+linkPara.parentNode.removeChild(linkPara);
