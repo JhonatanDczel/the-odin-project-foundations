@@ -34,9 +34,16 @@ console.table(array);
 
 //Slice methods
 let subArray = array.slice(2, 4);
-
 console.table(subArray);
 
+//For each loops
+let countries = ['Peru', 'Colombia', 'Bolivia', 'China'];
+
+function alrt(item, index, array) {
+  alert(`${item} is at index ${index} in ${array}`);
+}
+
+countries.forEach(alrt);
 
 
 
