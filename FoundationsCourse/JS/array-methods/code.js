@@ -17,6 +17,7 @@ console.table(array);
 
 //splice
 //Este metodo es como una najava suiza para los arrays, con ella se pueden borrar, mover y insertar nuevos elementos a un array funciona de la suigiente manera: 
+//Te devuelve como resultado un subarray con los elementos que haz eliminado o sustytuido, estoi es muy util para poder substraer elementos de un array
 
 array = ['I', 'study', 'JavaScipt', 'right', 'now'];
 
@@ -24,6 +25,17 @@ array.splice(0, 3, "Let's", 'dance');
 
 console.table(array);
 
+array.splice(2, 0, 'complex', 'language');
+
+console.table(array);
+
+//negative indexes are allowed
+
+
+//Slice methods
+let subArray = array.slice(2, 4);
+
+console.table(subArray);
 
 
 
