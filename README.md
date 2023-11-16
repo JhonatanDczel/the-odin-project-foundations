@@ -29,14 +29,14 @@ Landing page destinada a mostrar las habilidades adquiridas con CSS, mas especif
 ## 🚀 ÁREA 51 > PROYECTOS:
 
 ### Clon de Google:
-[🌐 Google Clone](https://jhonatandczel.github.io/the-odin-project/Area51/Projects/google-clon/) | [[View code](https://github.com/JhonatanDczel/the-odin-project/tree/main/Area51/Projects/google-clon)]
+[🌐 Google Clone](https://jhonatandczel.github.io/the-odin-project-foundations/Area51/Projects/google-clon/) | [[View code](https://github.com/JhonatanDczel/the-odin-project-foundations/tree/main/Area51/Projects/google-clon)]
 
 Este proyecto surgió como una tarea interesante para investigar la comunicación de las búsquedas a los programas CGI de Google. El clon incluye búsquedas por texto, imágenes y funciones avanzadas.
 
 ## 🚀 ÁREA 51 > ZONA JS:
 
 ### Lista de compras:
-[☑️ Shopping List](https://jhonatandczel.github.io/the-odin-project/Area51/ZonaJS/Shopping-List/) | [[View code](https://github.com/JhonatanDczel/the-odin-project/tree/main/Area51/ZonaJS/Shopping-List)]
+[☑️ Shopping List](https://jhonatandczel.github.io/the-odin-project-foundations/Area51/ZonaJS/Shopping-List/) | [[View code](https://github.com/JhonatanDczel/the-odin-project-foundations/tree/main/Area51/ZonaJS/Shopping-List)]
 
 Este desafío se realizó al finalizar un tutorial de MDN sobre la manipulación del DOM con JavaScript. El objetivo principal era poner a prueba las nuevas funciones aprendidas, por lo que se descuidó un poco la apariencia (¡potencialmente podría convertirse en un proyecto completo! 😉).
 
