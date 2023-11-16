@@ -11,3 +11,9 @@ Surgio como una tarea interesante, para investigar sobre la forma en que se comu
 ## Area 51 > Zona JS:
 - **Lista de compras:** <a href="https://jhonatandczel.github.io/the-odin-project/Area51/ZonaJS/Shopping-List/" target="_blank"> ☑️ Shopping List </a> <br>
 Es un challenge que hice al terminar un tutorial de MDN, sobre la manipulacion del DOM con JavaScript, el objetivo principal es probar las nuevas funciones aprendias, por lo que se descuida un poco la apariencia (Potencialmente podria convertirse en un proyecto c;)
+
+## Proyectos de aprendizaje
+
+- ### Calculadora: [🖩 Calculator](thttps://jhonatandczel.github.io/calculator/)
+Es el proyecto final del curso de Fundamentos, que abarca los conocimientos obtenidos de CSS, HTMl y JS.
+
