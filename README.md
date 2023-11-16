@@ -19,3 +19,6 @@ Es el proyecto final del curso de Fundamentos, que abarca los conocimientos obte
 
 - ### Mini PixelArt generador: [🎨 Etch a Sketch](https://jhonatandczel.github.io/etch-a-sketch/)
 Proyecto en el que se reflejan los aprendizajes con la manipulacion del DoM con JavaScript, aun en desarrollo para aplicar nuevas funcionalidades.
+
+- ### Juego de Piedra Papel o Tijera: [🎮](https://jhonatandczel.github.io/rock-paper-scissors/)
+Primer proyecto en el que se integran conocimientos de JavaScript con HTML y CSS, inicialmente nace como un juego para consola, y luego se agregan las funcionalidades de UI.
