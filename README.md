@@ -12,16 +12,22 @@
 Este proyecto es el resultado final del curso de Fundamentos, que abarca los conocimientos obtenidos de CSS, HTML y JS.
 
 ### Mini PixelArt generador:
+[![Etch a Sketch](https://raw.githubusercontent.com/JhonatanDczel/img/main/etch-a-sketch-thumbnail.png)](https://jhonatandczel.github.io/etch-a-sketch/)
+
 [🎨 Etch a Sketch](https://jhonatandczel.github.io/etch-a-sketch/) | [[View code](https://github.com/JhonatanDczel/etch-a-sketch)]
 
 Proyecto en desarrollo que refleja los aprendizajes en la manipulación del DOM con JavaScript. Se están implementando nuevas funcionalidades.
 
 ### Juego de Piedra Papel o Tijera:
+[![rock-paper-scissors](https://raw.githubusercontent.com/JhonatanDczel/img/main/rock-paper-scissors-thumbnail.png)](https://jhonatandczel.github.io/rock-paper-scissors/)
+
 [🎮 Rock-Paper-Scissors](https://jhonatandczel.github.io/rock-paper-scissors/) | [[View code](https://github.com/JhonatanDczel/rock-paper-scissors)]
 
 Este fue mi primer proyecto en el que integré conocimientos de JavaScript con HTML y CSS. Inicialmente, nació como un juego para consola y luego se agregaron funcionalidades de interfaz de usuario.
 
 ### Landing page:
+[![odin-landing-page](https://raw.githubusercontent.com/JhonatanDczel/img/main/cat-blog-thumbnail.png)](https://jhonatandczel.github.io/cat-blog/)
+
 [🐱 CatBlog](https://jhonatandczel.github.io/odin-landing-page/) | [[View code](https://github.com/JhonatanDczel/odin-landing-page)]
 
 Landing page destinada a mostrar las habilidades adquiridas con CSS, mas especificamente con flexbox, donde se introducen conceptos de responsive design. Ademas, es mi primera pagina web como tal.
