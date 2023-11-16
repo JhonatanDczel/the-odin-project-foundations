@@ -17,3 +17,5 @@ Es un challenge que hice al terminar un tutorial de MDN, sobre la manipulacion d
 - ### Calculadora: [🖩 Calculator](thttps://jhonatandczel.github.io/calculator/)
 Es el proyecto final del curso de Fundamentos, que abarca los conocimientos obtenidos de CSS, HTMl y JS.
 
+- ### Mini PixelArt generador: [🎨 Etch a Sketch](https://jhonatandczel.github.io/etch-a-sketch/)
+Proyecto en el que se reflejan los aprendizajes con la manipulacion del DoM con JavaScript, aun en desarrollo para aplicar nuevas funcionalidades.
