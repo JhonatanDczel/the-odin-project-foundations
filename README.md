@@ -1,4 +1,4 @@
-# 💻 The Odin Project 💻
+# 💻 The Odin Project - Foundations Course 💻
 
 ¡Bienvenido a mi repositorio de The Odin Project!
 
