@@ -1,29 +1,37 @@
 # 💻 The Odin Project 💻
-Este es mi repositorio para iniciar a aprender programacion web
 
-**Hello Odin!!**
+¡Bienvenido a mi repositorio de The Odin Project!
 
-## Area 51 > Proyectos:
+**¡Hola, Odin!** 👋
 
-- **Clon en apariencia y funcionalidades de Google:**
-[🌐 Google](https://jhonatandczel.github.io/the-odin-project/Area51/Projects/google-clon/)
-Surgio como una tarea interesante, para investigar sobre la forma en que se comunican las busquedas a los programas CGI de google. El buscador tiene busquedas por texto, imagenes y busquedas avanzadas.
+## 🚀 Área 51 > Proyectos:
 
-## Area 51 > Zona JS:
-- **Lista de compras:**
-[☑️ Shopping List ](https://jhonatandczel.github.io/the-odin-project/Area51/ZonaJS/Shopping-List/)
-Es un challenge que hice al terminar un tutorial de MDN, sobre la manipulacion del DOM con JavaScript, el objetivo principal es probar las nuevas funciones aprendias, por lo que se descuida un poco la apariencia (Potencialmente podria convertirse en un proyecto c;)
+### Clon de Google:
+[🌐 Google Clone](https://jhonatandczel.github.io/the-odin-project/Area51/Projects/google-clon/)
 
-## Proyectos de aprendizaje
+Este proyecto surgió como una tarea interesante para investigar la comunicación de las búsquedas a los programas CGI de Google. El clon incluye búsquedas por texto, imágenes y funciones avanzadas.
 
-- ### Calculadora:
+## 🚀 Área 51 > Zona JS:
+
+### Lista de compras:
+[☑️ Shopping List](https://jhonatandczel.github.io/the-odin-project/Area51/ZonaJS/Shopping-List/)
+
+Este desafío se realizó al finalizar un tutorial de MDN sobre la manipulación del DOM con JavaScript. El objetivo principal era poner a prueba las nuevas funciones aprendidas, por lo que se descuidó un poco la apariencia (¡potencialmente podría convertirse en un proyecto completo! 😉).
+
+## 📚 Proyectos de aprendizaje
+
+### Calculadora:
 [🖩 Calculator](https://jhonatandczel.github.io/calculator/)
-Es el proyecto final del curso de Fundamentos, que abarca los conocimientos obtenidos de CSS, HTMl y JS.
 
-- ### Mini PixelArt generador:
+Este proyecto es el resultado final del curso de Fundamentos, que abarca los conocimientos obtenidos de CSS, HTML y JS.
+
+### Mini PixelArt generador:
 [🎨 Etch a Sketch](https://jhonatandczel.github.io/etch-a-sketch/)
-Proyecto en el que se reflejan los aprendizajes con la manipulacion del DoM con JavaScript, aun en desarrollo para aplicar nuevas funcionalidades.
 
-- ### Juego de Piedra Papel o Tijera:
-[🎮](https://jhonatandczel.github.io/rock-paper-scissors/)
-Primer proyecto en el que se integran conocimientos de JavaScript con HTML y CSS, inicialmente nace como un juego para consola, y luego se agregan las funcionalidades de UI.
+Proyecto en desarrollo que refleja los aprendizajes en la manipulación del DOM con JavaScript. Se están implementando nuevas funcionalidades.
+
+### Juego de Piedra Papel o Tijera:
+[🎮 Rock-Paper-Scissors](https://jhonatandczel.github.io/rock-paper-scissors/)
+
+Este fue mi primer proyecto en el que integré conocimientos de JavaScript con HTML y CSS. Inicialmente, nació como un juego para consola y luego se agregaron funcionalidades de interfaz de usuario.
+
