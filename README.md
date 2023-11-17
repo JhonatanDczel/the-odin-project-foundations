@@ -7,9 +7,11 @@
 ## 📚 PROYECTOS DE APRENDIZAJE
 
 ### Calculadora:
+[![calculator](https://raw.githubusercontent.com/JhonatanDczel/img/main/calculator-thumbnail.png)](https://jhonatandczel.github.io/calculator/)
+
 [➕ Calculator](https://jhonatandczel.github.io/calculator/) | [[View code](https://github.com/JhonatanDczel/calculator)]
 
-Este proyecto es el resultado final del curso de Fundamentos, que abarca los conocimientos obtenidos de CSS, HTML y JS.
+Este proyecto es el resultado final del curso de Fundamentos, que abarca los conocimientos obtenidos de CSS, HTML y JS. Se trabaja con un enfoque en eventos y funciones como parametros.
 
 ### Mini PixelArt generador:
 [![Etch a Sketch](https://raw.githubusercontent.com/JhonatanDczel/img/main/etch-a-sketch-thumbnail.png)](https://jhonatandczel.github.io/etch-a-sketch/)
